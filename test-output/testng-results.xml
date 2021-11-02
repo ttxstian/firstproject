@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24756" started-at="2021-10-29T02:44:47Z" finished-at="2021-10-29T02:45:12Z">
+  <suite name="Default suite" duration-ms="48975" started-at="2021-11-02T03:52:40Z" finished-at="2021-11-02T03:53:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24756" started-at="2021-10-29T02:44:47Z" finished-at="2021-10-29T02:45:12Z">
+    <test name="Default test" duration-ms="48975" started-at="2021-11-02T03:52:40Z" finished-at="2021-11-02T03:53:29Z">
       <class name="com.aspire.day4.POLogin">
-        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.aspire.day4.POLogin@59fa1d9b]" name="openChrome" is-config="true" duration-ms="5880" started-at="2021-10-29T10:44:47Z" finished-at="2021-10-29T10:44:53Z">
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:com.aspire.day4.POLogin@59fa1d9b]" name="openChrome" is-config="true" duration-ms="6459" started-at="2021-11-02T11:52:40Z" finished-at="2021-11-02T11:52:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openChrome -->
-        <test-method status="PASS" signature="enterRightNumber()[pri:0, instance:com.aspire.day4.POLogin@59fa1d9b]" name="enterRightNumber" duration-ms="18017" started-at="2021-10-29T10:44:53Z" finished-at="2021-10-29T10:45:11Z">
+        <test-method status="PASS" signature="enterRightNumber()[pri:0, instance:com.aspire.day4.POLogin@59fa1d9b]" name="enterRightNumber" duration-ms="41656" started-at="2021-11-02T11:52:47Z" finished-at="2021-11-02T11:53:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterRightNumber -->
-        <test-method status="PASS" signature="ClosedBrower()[pri:0, instance:com.aspire.day4.POLogin@59fa1d9b]" name="ClosedBrower" is-config="true" duration-ms="802" started-at="2021-10-29T10:45:11Z" finished-at="2021-10-29T10:45:12Z">
+        <test-method status="PASS" signature="ClosedBrower()[pri:0, instance:com.aspire.day4.POLogin@59fa1d9b]" name="ClosedBrower" is-config="true" duration-ms="806" started-at="2021-11-02T11:53:29Z" finished-at="2021-11-02T11:53:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClosedBrower -->
